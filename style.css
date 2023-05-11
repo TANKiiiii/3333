@@ -1,0 +1,47 @@
+body {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo {
+
+    width: 1000px;
+    /* margin: 0 auto 0; */
+
+}
+
+.top-memu {
+    background: #35312e;
+    width: 1000px;
+    height: 20px;
+}
+
+.center-menu {
+    width: 1000px;
+    height: 60px;
+}
+.menu_h1{
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+ p {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+
+ }
+
+ .arrow_right{
+    cursor: pointer;
+ }
+
+ .arrow_left{
+    cursor: pointer;
+ }
